@@ -1,16 +1,5 @@
-import { Routes,Route } from 'react-router-dom'
-import Header from './components/header'
-import Footer from './components/footer'
-import './App.css'
+import Layout from './Layout.jsx'
 
-function App() {
-
-  return (
-    <>
-      <header/>
-      <footer/>
-    </>
-  )
+export default function App() {
+  return <Layout />
 }
-
-export default App
