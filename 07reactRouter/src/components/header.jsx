@@ -26,6 +26,8 @@ export default function Header() {
             <ul className="flex flex-wrap items-center gap-6 py-3 font-medium">
               <li><NavLink to="/" end className={navClass}>Home</NavLink></li>
               <li><NavLink to="/about" className={navClass}>About</NavLink></li>
+              <li><NavLink to ="/contact" className={navClass}>contact</NavLink></li>
+               <li><NavLink to ="/github" className={navClass}>Github</NavLink></li>
             </ul>
           </div>
         </div>
