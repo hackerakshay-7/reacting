@@ -31,12 +31,12 @@ export default function Home() {
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-96" src="https://i.ibb.co/5BCcDYB/Remote2.png" alt="image1" />
+                    <img className="w-96" src="https://www.google.com/imgres?q=4k%20doodle%20images&imgurl=https%3A%2F%2F4kwallpapers.com%2Fimages%2Fwalls%2Fthumbs_2t%2F4407.jpg&imgrefurl=https%3A%2F%2F4kwallpapers.com%2Fdoodle&docid=6gRPP-vjWtsVAM&tbnid=ByHPG0HlKy6j8M&vet=12ahUKEwjGyOX_hoqYAxVxwjgGHTr1N2wQnPAOegUI4AUQAA..i&w=800&h=450&hcb=2&ved=2ahUKEwjGyOX_hoqYAxVxwjgGHTr1N2wQnPAOegUI4AUQAA" alt="image1" />
                 </div>
             </aside>
 
             <div className="grid  place-items-center sm:mt-20">
-                <img className="sm:w-96 w-48" src="https://i.ibb.co/2M7rtLk/Remote1.png" alt="image2" />
+                <img className="sm:w-96 w-48" src="https://www.google.com/imgres?q=4k%20doodle%20images&imgurl=https%3A%2F%2Fc4.wallpaperflare.com%2Fwallpaper%2F805%2F796%2F1020%2Fexplosion-monitor-another-body-wallpaper-preview.jpg&imgrefurl=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Ddoodle&docid=G5N40MyyTqXgVM&tbnid=PKbWpbD0FH1PiM&vet=12ahUKEwialfu9h4qYAxVhxTgGHXYCIeI4ChCc8A56BQiDAxAA..i&w=728&h=546&hcb=2&ved=2ahUKEwialfu9h4qYAxVhxTgGHXYCIeI4ChCc8A56BQiDAxAA" alt="image2" />
             </div>
 
             <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum Yojo</h1>

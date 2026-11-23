@@ -9,3 +9,8 @@ props manjhe properties manjhe object
 // outlet rr meh aata hai  
 header , outlet , footer so that header footer same rahe aur outlet ke andhar ki cheeze change hoti hai
 # concept of loader is like a loader loads the data from the api or other shit which has to be loaded just by hovering over it i.e. before clicking and puts the loaded data in cache // ```optimization```
+
+
+``` prop drilling is the method in which a global object is created in which all the requires props(properties) are saved so we can access it direclty instead of passing into multiple components i.e. optimization ```
+
+# context switching is a library , it exists only in react // redux tool kit (rdk) is also a library
